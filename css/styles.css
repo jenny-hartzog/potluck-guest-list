@@ -86,7 +86,7 @@ button {
   font-weight: bold;
   border: none;
   cursor: pointer;
-  background-color: tomato;
+  background-color: rgb(3, 64, 125);
 }
 
 button:hover {
@@ -103,7 +103,7 @@ input {
 
 input:focus {
   border: 2px solid;
-  background-color: mintcream;
+  background-color: mediumseagreen;
 }
 
 .guest-list {
@@ -113,7 +113,7 @@ input:focus {
 .assigned-items li {
   margin: 0.45em 0;
   background-color: #fff;
-  color: tomato;
+  color: turquoise;
   font-weight: bold;
   color: 292929;
 }
